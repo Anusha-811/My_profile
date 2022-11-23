@@ -1,0 +1,222 @@
+nav{
+    background-color:#1f1f1f;
+     height:100px;
+     width:100%;
+     margin-top:-15px;
+}
+#name{
+   
+    padding-top: 25px;
+    padding-left: 45px;
+    font-size: 24px;
+      /* display: inline; */
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif   ;
+}
+footer{
+    float: left;
+    background-color:#1f1f1f;
+     height:70px;
+     width:100%;
+     text-align: center;
+     margin-top:-17px;
+     /* margin-bottom:-15px;    */
+}
+
+#copyright{
+    color: white;
+    padding-top:0px;
+}
+#created{
+    color: white;
+    padding-bottom :10px;
+}
+  h1{
+    color: white; 
+    display: inline;
+}  
+#about_me{
+    height:510px ;
+    width:25%;
+    float: left;
+    background-color:#008b8b;
+   
+}
+#pic{
+    background-image: url(./profile_images/Bday\ pic20_withoutdate.jpg);
+    background-size: cover;
+   margin-left: 77px;
+   margin-top: 30px;
+   margin-bottom: 30px;
+    height:180px ;
+    width:50%;
+    /* background-color:#098b00; */
+}
+ #intro{
+    margin-left: 27px;
+   margin-top: 30px;
+   /* margin-bottom: 30px; */
+    height:220px ;
+    width:80%;
+    /* background-color:#8b7600; */
+} 
+#social_logo{
+    height:46px ;
+    width:90%;
+     margin-top: -10px;
+     margin-left: 10px;
+     margin-bottom: 10px;
+    /* background-color:#8b7600; */
+}
+#about_intro{
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+ #tags{
+     /* padding-top: 28px; */
+     text-decoration: none;
+    text-align:center;
+}
+ .anchor{
+    text-decoration: none;
+    font-size: 22px;
+    color: white; 
+    padding-left: 15px;
+    padding-right: 15px;
+
+} 
+.seperator{
+    display: inline;
+    color: white;
+    font-size: 20px;
+}
+#hidden{
+    /* float: left; */
+    height:510px ;  
+    width:75%;
+      /* background-color: black;  */
+      overflow: hidden;
+ }
+ #Qualifications{
+    float: left;
+    height:510px ;  
+    width:100%;
+      /* background-color: rgb(255, 0, 140); */
+     /* overflow: hidden; */
+ }
+#Expereince{
+   float: left;
+   height:510px ;  
+   width:100%;
+     /* background-color: red; */
+    /* overflow: hidden; */
+}
+#skills{
+    float: left;
+    height:510px ;  
+    width:100%;
+     /* background-color: pink; */
+     /* overflow: hidden; */
+ }
+ #info{
+    float: left;
+    height:510px ;  
+    width:100%;
+     /* background-color: blue; */
+     /* overflow: hidden; */
+ }
+ img{
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-right: 15px;
+    float: left;
+ }
+ .resize{
+    height: 100px;
+    width:100px
+ }
+ .icon_resize{
+    height: 50px;
+    width:50px
+ }
+ .social_img{
+    height: 35px;
+    width:35px;
+    border-radius: 5px;
+    padding-left: 10px;
+    margin-top: -25px;
+    float: right;
+ }
+ .info_icons{
+    height: 45  px;
+    width:50px;
+    padding-left: 30px;
+    padding-top: 15px;
+    padding-right: 15px;
+    /* float: left; */
+ }
+ .ptag_info{
+    padding-top: 13px;
+ }
+ .ptag_info1{
+    padding-top: 25px;
+ }
+ #iframe{
+    height: 200px;
+    width:35%;
+    padding-top: 20px;
+    padding-left: 30px;
+    padding-bottom: 13px;
+ }
+ #qua_div_img{
+    margin-top: 50px;
+    margin-left: 50px;
+    height:150px ;
+    width:150px ;
+    float: left;
+     /* background-color: red; */ 
+ }
+ #qua_div_img1{
+    margin-top: 85px;
+    margin-left: 30px;
+    height:150px ;
+    width:60% ;
+    float: left;
+     /* background-color: red;  */
+ }
+ #rvr_id{
+    text-decoration: none;
+    font-size: 22px;
+    font-weight: bold;
+    /* color: black; */
+ }
+ #tcs_div{
+    margin-top: 55px;
+    margin-left: 100px;
+    height:400px ;
+    width:500px ;
+    /* background-color: black; */
+ }
+ #exp_div_img{
+     margin-top: -20px; 
+     margin-left: -20px; 
+    height:100px ;
+    width:100px ;
+    float: left;
+     /* background-color: red; */ 
+ }
+ #exp_div_img1{
+    /* margin-top: 85px;
+    margin-left: 30px; */
+    height:120px ;
+    width:60% ;
+    float: left;
+     /* background-color: red;  */
+ }
+ /* ul{
+    margin-left: 20px;
+ } */
+ li{
+    font-size: 22px;
+    font-weight: bold;
+ }
